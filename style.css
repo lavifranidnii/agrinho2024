@@ -33,6 +33,7 @@ align-items: center;
 }
 
 .sobre_texto{
+    width: 400px;
 
     padding: 40px;
 }
